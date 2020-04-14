@@ -132,6 +132,8 @@ h6, .h6 {
 .btn-transparent {
   background: transparent;
   color: #41228e;
+  
+  /* color: rgb(57, 229, 235); */
   font-weight: bold;
 }
 
@@ -141,6 +143,7 @@ h6, .h6 {
 
 body {
   background-color: #fff;
+  /* background-color: rgb(57, 229, 235); */
   overflow-x: hidden;
 }
 
@@ -340,6 +343,7 @@ a:hover {
 
 .bg-dark {
   background-color: #222222 !important;
+  /* background-color: #78918f !important; */
 }
 
 /* icon */
@@ -728,7 +732,7 @@ textarea.form-control {
 /* /testimonial */
 /* footer */
 .footer-section {
-  padding-top: 200px;
+  padding-top: 75px;
 }
 
 .section-on-footer {
